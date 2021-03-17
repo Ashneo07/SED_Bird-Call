@@ -34,7 +34,7 @@ Several augmentations were applied on spectrograms during the training stage usi
 
 * 5 stratifiedkfold 
 * Loss: BCE with auxiliary  
-* Optimizer: AdamW with initial LR 0.0001 and weigth decauy Wd 1e-5 
+* Optimizer: AdamW with initial LR 0.0001 and weight decay Wd 1e-5 
 * CosineAnnealingLR scheduler: factor 10  
 * Use ImbalanceData Sampler for sampling curated and noisy data  
 * Training with BCE on noisy samples with a high lwlrap score by previous models
