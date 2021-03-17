@@ -50,3 +50,5 @@ Several augmentations were applied on spectrograms during the training stage usi
 [3] [Audiomentations Python library for audio augmentation](https://github.com/iver56/audiomentations)
 
 [4] [PyTorch Image Models](https://github.com/rwightman/pytorch-image-models)
+
+[5] [6th place solution to the Cornell Birdcall Identification Challenge ](https://github.com/koukyo1994/kaggle-birdcall-6th-place)
